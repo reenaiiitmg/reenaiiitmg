@@ -132,8 +132,7 @@ Material UI • PrimeReact • PrimeNG • Bootstrap • Tailwind CSS • SCSS
 Node.js • NestJS • REST APIs • GraphQL
 
 ### Testing
-Jest • React Testing Library • Angular Testing Library
-
+Vitest, Jest, React Testing Library, Angular Testing Library, Playwright,Cypress
 ### Performance
 Lazy Loading • Code Splitting • Tree Shaking • Memoization
 
